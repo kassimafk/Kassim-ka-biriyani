@@ -1,0 +1,64 @@
+title {
+    color: #ffffff;
+} header {font: 100px Arial, sans-serif;
+    background-color: #136207;
+    padding: 20px;
+    text-align: right;
+} h1 {
+    color: #ffffff;
+    text-align: center;
+    font-size: 36px;
+    margin-top: 50px;
+}p {
+    color: #ffffff;
+    text-align: center;
+    font-size: 18px;
+    margin-top: 20px;
+}    ul {
+    list-style-type: none;
+    padding: 0;
+    margin-top: 30px;
+    text-align: center;
+}
+    h3{
+        color: #ffffff;
+        text-align: center;
+        font-size: 24px;
+        margin-top: 20px;
+    }img {size: 1px;
+        front-size: 1px;
+        top: 1px;
+        margin-top: 20px;
+    }h5 {
+        color: #ffffff;
+        text-align: left;
+        font-size: 18px;
+        margin-top: 20px;
+    }p {
+        color: #ffffff;
+        text-align: center;
+        font-size: 18px;
+        margin-top: 20px;
+    } button {
+        background-color: #136207;
+        color: #ffffff;
+        border: none;
+        padding: 10px 20px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin-left:590px;
+        cursor: pointer;
+    }
+    li{
+        color: #ffffff;
+        text-align: center;
+        font-size: 18px;
+        margin-top: 20px;
+    }h5 {
+        color: #ffffff;
+        text-align: center;
+        font-size: 18px;
+        margin-top: 20px;
+    }
